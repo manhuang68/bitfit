@@ -4,7 +4,7 @@ Submitted by: **MAN HUANG HO**
 
 **BITFIT** is a health metrics app that allows users to track training exercise schedule [TODO] 
 
-Time spent: **X** hours spent in total
+Time spent: **8** hours spent in total
 
 ## Required Features
 
